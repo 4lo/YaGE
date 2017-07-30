@@ -55,7 +55,7 @@ brew install --HEAD yage
 
 本项目使用了可变参数宏(Variadic Macros)，请确认你安装了 Visual Studio 2005 或更高版本。(可以使用 Express 版本的 Visual C++)
 
-下载安装 [CMake](http://www.cmake.org/download/) (Win32 Installer) 和 [GTK+ 3](http://www.gtk.org/download/win32.php) (All-in-one bundles) 并添加其中 `bin` 目录到系统 `PATH` 变量。
+下载安装 [CMake](http://www.cmake.org/download/) (Win32 Installer) 和 [GTK+ 3](https://www.gtk.org/download/windows.php) (All-in-one bundles) 并添加其中 `bin` 目录到系统 `PATH` 变量。
 
 安装后，启动 Visual Studio 命令行(32 位) 后，切换到本项目根目录
 
